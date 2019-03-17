@@ -1,0 +1,37 @@
+.PhpStorm2018.3/
+.android/
+.config/
+.gitconfig
+.lesshst
+.nbi/
+.octave_hist
+.swt/
+3D Objects/
+AppData/
+BullseyeCoverageError.txt
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+MicrosoftEdgeBackups/
+Music/
+NTUSER.DAT
+NTUSER.DAT{443f89f4-631b-11e8-b9f9-005056c00008}.TM.blf
+NTUSER.DAT{443f89f4-631b-11e8-b9f9-005056c00008}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{443f89f4-631b-11e8-b9f9-005056c00008}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Tracing/
+Videos/
+inittk.ini
+inst.ini
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+nuuid.ini
+source/repos/старое/*
+vmlogs/
