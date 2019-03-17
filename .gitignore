@@ -33,5 +33,5 @@ ntuser.dat.LOG1
 ntuser.dat.LOG2
 ntuser.ini
 nuuid.ini
-source/repos/старое/*
+source/*
 vmlogs/
