@@ -6,6 +6,7 @@
 .nbi/
 .octave_hist
 .swt/
+.viminfo
 3D Objects/
 AppData/
 BullseyeCoverageError.txt
